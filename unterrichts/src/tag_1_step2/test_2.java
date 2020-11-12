@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class test_2 {
 
 	public static void main(String[] args) {
-		// Â¦¼ö È¦¼ö ±¸ÇÏ±â
+		
 		int num;
 		Scanner sc = new Scanner(System.in);
 		
