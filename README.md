@@ -9,5 +9,5 @@
 
 ## 2020.11.13.금 #2
 ### Java #2
-1.조건문(if, switch)
-2.반복문(for, while, do-while)
+1. 조건문(if, switch)
+2. 반복문(for, while, do-while)
