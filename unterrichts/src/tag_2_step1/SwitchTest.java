@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class SwitchTest {
 
 	public static void main(String[] args) {
-
+ 
 		String grade = " ";
 
 		Scanner sc = new Scanner(System.in);
