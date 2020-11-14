@@ -10,7 +10,7 @@ public class For2 {
 			sum += i;
 		}
 		System.out.println(sum);
-		
+		 
 		
 	}
 
