@@ -6,7 +6,6 @@ public class While3 {
 
 	public static void main(String[] args) {
 
-
 		Scanner sc = new Scanner(System.in);
 		int i = 1; 
 		int a;
@@ -17,14 +16,8 @@ public class While3 {
 			
 			if(a % i == 0) {
 				System.out.println(i + "\t");
-				
 			}
-			
 			i++;
 		}
-		
-		
-		
 	}
-
 }
