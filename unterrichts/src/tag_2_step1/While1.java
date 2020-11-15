@@ -8,5 +8,6 @@ public class While1 {
 		
 		while (i <= 10) {
 			System.out.println((i++) + "\t");
+		}
 	}
 }
