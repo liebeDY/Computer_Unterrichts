@@ -1,6 +1,6 @@
 package tag_3_step1;
 
-public class Switch3 {
+public class Switch1 {
 
 	public static void main(String[] args) {
 		int grade = 100;
@@ -16,7 +16,5 @@ public class Switch3 {
 			break;
 
 		}
-
 	}
-
 }
