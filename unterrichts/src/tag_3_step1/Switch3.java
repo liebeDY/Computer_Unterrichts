@@ -3,19 +3,38 @@ package tag_3_step1;
 public class Switch3 {
 
 	public static void main(String[] args) {
-		int grade = 100;
+		
+		int jumsu = 85, mok;
+		char grade;
 
-		switch (grade) {
+		mok = jumsu / 10;
 
-		case 100:
-			System.out.println("grade = 100");
+		switch (mok) {
+
+		case 10:
+
+		case 9:
+			grade = 'A';
 			break;
 
-		case 200:
-			System.out.println("grade = 200");
+		case 8:
+			grade = 'B';
+			break;
+
+		case 7:
+			grade = 'C';
+			break;
+
+		case 6:
+			grade = 'D';
+			break;
+
+		default:
+			grade = 'F';
 			break;
 
 		}
+		System.out.println(grade);
 
 	}
 
