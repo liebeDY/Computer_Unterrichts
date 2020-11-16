@@ -15,5 +15,4 @@ public class While2 {
 			j = 1;
 		}
 	}
-
 }

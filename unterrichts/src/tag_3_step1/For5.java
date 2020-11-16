@@ -14,5 +14,4 @@ public class For5 {
 		}
 		System.out.println(sum);
 	}
-
 }
