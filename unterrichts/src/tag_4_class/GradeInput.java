@@ -7,5 +7,5 @@ public class GradeInput {
 	int eng;
 	int math;
 	int total;
-	float avg;
+	float avg; 
 }

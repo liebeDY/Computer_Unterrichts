@@ -25,7 +25,7 @@ public class GradeInputMain {
 			r[i].math = sc.nextInt();
 			r[i].total = r[i].kor + r[i].eng + r[i].math;
 			r[i].avg = (float) r[i].total / 3;
-		}
+		} 
 
 		for (i = 0; i < r.length; i++) {
 
