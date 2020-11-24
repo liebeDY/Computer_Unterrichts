@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+C:\Users\clari\Desktop\Computer_Unterrichts\unterrichts\src\tag_9_step1\.metadata\.plugins\org.eclipse.jdt.core
