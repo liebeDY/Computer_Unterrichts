@@ -8,10 +8,10 @@ public class TestProductService {
 	public static void main(String[] args) {
 
 		ProductService service = new ProductService();
-		service.addProductVo(new ProductVo("A", "»óÇ°1", "Gucci", 5000 ));
-		service.addProductVo(new ProductVo("B", "»óÇ°2", "Apple", 25000 ));
-		service.addProductVo(new ProductVo("C", "»óÇ°3", "Samsung", 35000 ));
-		service.addProductVo(new ProductVo("D", "»óÇ°4", "Prada", 15000 ));
+		service.addProductVo(new ProductVo("A", "ï¿½ï¿½Ç°1", "Gucci", 5000 ));
+		service.addProductVo(new ProductVo("B", "ï¿½ï¿½Ç°2", "Apple", 25000 ));
+		service.addProductVo(new ProductVo("C", "ï¿½ï¿½Ç°3", "Samsung", 35000 ));
+		service.addProductVo(new ProductVo("D", "ï¿½ï¿½Ç°4", "Prada", 15000 ));
 		
 		System.out.println("---- printAll -----");
 		service.printAll();
@@ -23,7 +23,7 @@ public class TestProductService {
 		if (vo != null) {
 			System.out.println(vo);
 		} else {
-			System.out.println("»óÇ° ¾øÀ½");
+			System.out.println("ï¿½ï¿½Ç° ï¿½ï¿½ï¿½ï¿½");
 		}
 		System.out.println();
 		
